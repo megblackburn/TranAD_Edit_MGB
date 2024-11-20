@@ -1,0 +1,2 @@
+rm ./processed/GAUSS/*
+python3 preprocess2.py GAUSS
